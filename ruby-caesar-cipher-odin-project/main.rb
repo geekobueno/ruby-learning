@@ -27,7 +27,7 @@ letters = {
   26 => "z"
 }
 
-user_str=""
+user_str= ""
 shift_num=nil
 
 def encode(user_str,shift_num,letters)
