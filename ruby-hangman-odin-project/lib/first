@@ -1,0 +1,19 @@
+--- !ruby/object:Hangman
+word: attribute
+max_attempts: 6
+guesses:
+- 'yes'
+- complicate
+incorrect_guesses:
+- 'yes'
+- complicate
+correct_guesses:
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
